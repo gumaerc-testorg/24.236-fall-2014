@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 64b904cf-3c59-318e-4d69-acf9a4d08b9c
 ---
@@ -46,6 +47,6 @@ Project _proposals_ should address the following questions:
 Student Example
 ---------------
 
-[A Final Paper on Affirmative Action (PDF)]({{< baseurl >}}/resources/mit24_236f14_finalpaper)
+{{< resource_link 62a29cca-cb60-2811-a9ae-f51fecc41cc4 "A Final Paper on Affirmative Action (PDF)" >}}
 
 This example appears courtesy of a MIT student and is used with permission.

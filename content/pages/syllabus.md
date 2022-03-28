@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 10c5d889-3e95-75e8-addd-6c139214be8d
 ---
@@ -24,7 +25,7 @@ Controversies about race and racism continue to play an important role in the pu
 Texts
 -----
 
-Most readings for the course will be articles that can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Most readings for the course will be articles that can be found in the {{< resource_link 2371905a-2640-0de0-a004-8b340b116544 "Readings" >}} section.
 
 The following texts are also useful:
 
