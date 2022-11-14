@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2014",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -53,6 +54,6 @@
     "Lecture Notes",
     "Written Assignments with Examples"
   ],
-  "site_uid": "e0312925-0969-4807-9c89-00593ae3ce42",
+  "site_uid": "2ed2be96-cb13-4185-80ea-7f0c4c14d752",
   "title": "Course Metadata"
 }
