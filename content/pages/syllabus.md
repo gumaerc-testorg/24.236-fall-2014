@@ -30,7 +30,7 @@ Most readings for the course will be articles that can be found in the {{% resou
 
 The following texts are also useful:
 
-Blum, Lawrence. _"I'm Not a Racist, But…": The Moral Quandary of Race_. Cornell University Press, 2002. ISBN: 9780801488153. \[Preview with {{% resource_link "afbd10eb-65b6-413e-be10-c9ffd336f5e8" "Google Books" %}}\]
+Blum, Lawrence. _"I'm Not a Racist, But…": The Moral Quandary of Race_. Cornell University Press, 2002. ISBN: 9780801488153. \[Preview with [Google Books](http://books.google.com/books?id=X6VnRiUmp3oC&pg=PAfrontcover)\]
 
 Boxill, Bernard, ed. _Race and Racism_. Oxford University Press, 2001. ISBN: 9780198752677.
 
