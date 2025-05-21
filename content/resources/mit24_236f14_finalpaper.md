@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding topics In
   social theory and practice - assignments: student example.'
-file: /ol-ocw-studio-app/courses/24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014/62a29ccacb602811a9aef51fecc41cc4_MIT24_236F14_FinalPaper.pdf
+file: /courses/24-236-topics-in-social-theory-and-practice-race-and-racism-fall-2014/62a29ccacb602811a9aef51fecc41cc4_MIT24_236F14_FinalPaper.pdf
 file_size: 153129
 file_type: application/pdf
 learning_resource_types:
