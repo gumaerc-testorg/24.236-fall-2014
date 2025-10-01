@@ -75,7 +75,7 @@ Response paper due
 
 Race Eliminativism
 
-Screening: _[RACE - The Power of an Illusion, Ep. 1: The Difference Between Us](http://www.pbs.org/race/000_About/002_04-about-01.htm)_. Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
+Screening: _{{% resource_link "3b540345-cae9-4e5d-a515-8d41b069cb1e" "RACE - The Power of an Illusion, Ep. 1: The Difference Between Us" %}}_. Directed by Christine Herbes-Sommers. Color, 57 min. 2003.
 
 
 {{< tdclose >}}
@@ -311,7 +311,7 @@ Draft of final paper due
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: _[Free Angela and All Political Prisoners](http://www.imdb.com/title/tt2350432/?ref_=fn_al_tt_1)._ Directed by Shola Lynch. Color, 102 min. 2012.
+Screening: _{{% resource_link "45ddbe4f-76d3-4bed-bd75-73e4358b94d6" "Free Angela and All Political Prisoners" %}}._ Directed by Shola Lynch. Color, 102 min. 2012.
 {{< tdclose >}}
 {{< tdopen >}}
  
